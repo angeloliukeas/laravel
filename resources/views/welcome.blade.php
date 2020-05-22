@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Test 2020
+                    Laravel Test 20200522
                 </div>
 
                 <div class="links">
