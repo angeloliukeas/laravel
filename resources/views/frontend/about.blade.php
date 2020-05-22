@@ -2,6 +2,8 @@
 
 @section('title', 'About')
 
+@section('nav_about', 'active');
+
 @section('content')
 
 <!-- Content Start -->

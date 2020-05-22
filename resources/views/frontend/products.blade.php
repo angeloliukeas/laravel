@@ -1,6 +1,8 @@
 @extends('frontend.layouts.master')
 
-@section('title', 'Probucts')
+@section('title', 'Products')
+
+@section('nav_products', 'active');
 
 @section('content')
 
